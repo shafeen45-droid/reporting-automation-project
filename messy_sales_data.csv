@@ -1,0 +1,11 @@
+TransactionID,Date,Product,Region,Sales_Amount,Quantity
+101,2024-01-10,Laptop,North,1200,1
+102,2024-01-11, Smartphone,South,800,2
+103,2024-01-12,Tablet,East,,3
+104,2024-01-13,Laptop,West,1200,1
+101,2024-01-10,Laptop,North,1200,1
+105,,Smart TV,South,1500,1
+106,2024-01-15, smartphone,East,800,
+107,2024-01-16,Headphones,West,150,5
+108,2024-01-17,Tablet,,450,3
+108,2024-01-17,Tablet,,450,3
